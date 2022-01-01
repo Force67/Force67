@@ -20,9 +20,9 @@ I enjoy working on all topics involving Emulation, Reverse Engineering and Graph
 [<img src="https://img.shields.io/badge/Mail me-%5325F2.svg?&style=for-the-badge&logo=mail&logoColor=white" />](mailto:lovelyforce67@gmail.com)
 
 
-### My github stats
+### Some stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Force67&layout=compact&theme=highcontrast">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Force67&count_private=true&show_icons=true&theme=highcontrast">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Force67&layout=compact&theme=highcontrast" height="165">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Force67&count_private=true&show_icons=true&theme=highcontrast" height="165">
 </p>
