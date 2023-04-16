@@ -1,28 +1,31 @@
+# Hey there, I'm Vince! 🎉👋
 
-<h2> Hi there, I'm Vince<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+I'm a passionate software engineer who absolutely loves diving into Emulation, Reverse Engineering, and Graphics! 🎮🔧 My favorite languages to work with are C++, Rust, and Python.
 
-You finally found me.
-I enjoy working on all topics involving Emulation, Reverse Engineering and Graphics mostly written in:
-<br>
-<div align="left">  
-<img style="margin:10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c.svg" alt="C" height="35" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" alt="C" height="35" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" alt="C" height="35" />  
-</div>
+## 🌟 About Me
 
-### What I currently do
-- 🔭 I'm working on [Skyrim Together](https://skyrim-together.com/).
-- 🙊 I'm working on some secret sauce.
+- 🕺 Vincent Hengel - your friendly coding enthusiast!
 
-### Contact
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Force_67)
-[<img src="https://img.shields.io/badge/Discord-%234DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/Force67)
-[<img src="https://img.shields.io/badge/Mail me-%5325F2.svg?&style=for-the-badge&logo=mail&logoColor=white" />](mailto:lovelyforce67@gmail.com)
+## 🛠️ Skills and Expertise
 
+Check out the awesome technologies and tools that I'm skilled in:
 
-### Some stats
+- 💻 C++, Rust, Python - my go-to languages
+- 🎮 All things Emulation - I love to dive into the inner workings of games and consoles
+- 🔧 Things involving microcontrollers - I love to tinker with hardware
+- 📊 SQL - and other database technologies
+- 🐧 Linux - open source advocate
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Force67&layout=compact&theme=highcontrast" height="165">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Force67&count_private=true&show_icons=true&theme=highcontrast" height="165">
-</p>
+## 🚀 Projects I'm Proud Of
+
+Take a look at some of the cool projects I've worked on:
+
+- 🐉🔫 [Skyrim & Fallout Together](https://github.com/tiltedphoques/TiltedEvolution) - a multiplayer mod that unites Skyrim and Fallout 4 fans!
+- 🎮💻 [PS4Delta](https://github.com/Force67/ps4delta) - a PS4 emulator for Windows, bringing console gaming to your PC
+- ... And a bunch more, currently in private repositories!
+
+## 🤝 Let's Connect!
+
+Find me on these platforms and let's chat:
+
+- 🐦 [Twitter](https://twitter.com/Force67) - Tweet me your thoughts and ideas!
