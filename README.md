@@ -9,18 +9,18 @@ I'm a passionate software engineer who absolutely loves diving into Emulation, R
 ## Skills and Expertise
 
 - C++, Rust, Python - my go-to languages
-- All things Emulation - I love to dive into the inner workings of games and consoles
-- All things reverse engineering
+- Emulation - I love to dive into the inner workings of games, consoles and hardware
+- A lot of reverse engineering experience
 - Microcontrollers - I love to tinker with hardware
-- SQL - and other database technologies
 - Linux - open source advocate
 
-## Projects I'm Proud Of
+## Projects I've worked on
 
--  [Skyrim & Fallout Together](https://github.com/tiltedphoques/TiltedEvolution) - a multiplayer mod that unites Skyrim and Fallout 4 fans!
--  [Watch Dogs 2 Multiplayer and much more..](https://www.nomad-group.net/)
--  [PS4Delta](https://github.com/Force67/ps4delta) - a PS4 emulator for Windows, bringing console gaming to your PC
-- ... And a bunch more, currently in private repositories!
+-  [Skyrim,Fallout Together,Starfield Together](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer mod platform for Skyrim, Fallout 4 and Starfield
+-  [Hogwarp](https://www.nexusmods.com/hogwartslegacy/mods/1378) - Multiplayer mod for the game Hogwarts Legacy
+-  [Watch Dogs 2 Multiplayer and much more..](https://www.nomad-group.net/) - As a (former) member of NOMAD group I've worked on several Multiplayer projects
+-  [PS4Delta](https://github.com/Force67/ps4delta) - PS4 emulator for Windows
+- ... And a bunch more, upcoming things
 
 ## 🤝 Let's Connect!
 
