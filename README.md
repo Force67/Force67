@@ -11,7 +11,7 @@ I'm a passionate software engineer who absolutely loves diving into Emulation, R
 - C++, Rust, Python - my go-to languages
 - All things Emulation - I love to dive into the inner workings of games and consoles
 - All things reverse engineering
-- Things involving microcontrollers - I love to tinker with hardware
+- Microcontrollers - I love to tinker with hardware
 - SQL - and other database technologies
 - Linux - open source advocate
 
@@ -24,5 +24,4 @@ I'm a passionate software engineer who absolutely loves diving into Emulation, R
 
 ## 🤝 Let's Connect!
 
-- [Twitter](https://twitter.com/Force67)
 - [Mail](mailto:prelink835@gmail.com)
