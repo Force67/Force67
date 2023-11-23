@@ -1,12 +1,12 @@
-# Hey there, I'm Vince! 🎉👋
+# Hey there, I'm Vince! 👋
 
 I'm a passionate software engineer who absolutely loves diving into Emulation, Reverse Engineering, and Graphics! 🎮🔧 My favorite languages to work with are C++, Rust, and Python.
 
-## 🌟 About Me
+## About Me
 
-- 🕺 Vincent Hengel!
+- Vincent Hengel!
 
-## 🛠️ Skills and Expertise
+## Skills and Expertise
 
 - C++, Rust, Python - my go-to languages
 - All things Emulation - I love to dive into the inner workings of games and consoles
